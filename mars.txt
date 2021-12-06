@@ -1,2 +1,1 @@
 This is information about mars. This is a second sentence.
-yet another line.
